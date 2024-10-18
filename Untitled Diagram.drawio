@@ -179,6 +179,15 @@
         <mxCell id="X4MMAZx1POmpQhxmDy6j-81" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000marcas.net/wp-content/uploads/2020/01/Netflix-Logo-2006.png;" vertex="1" parent="X4MMAZx1POmpQhxmDy6j-56">
           <mxGeometry x="31" y="284.16999999999996" width="362.49" height="241.66" as="geometry" />
         </mxCell>
+        <mxCell id="X4MMAZx1POmpQhxmDy6j-84" value="HU09" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X4MMAZx1POmpQhxmDy6j-85" value="HU10" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="680" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X4MMAZx1POmpQhxmDy6j-86" value="Página Principal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="10" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
